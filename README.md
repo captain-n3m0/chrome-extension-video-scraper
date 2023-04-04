@@ -1,6 +1,10 @@
 # chrome-extension-video-scraper
 A simple chrome extension to scrape videos off websites.
 
+
+#THIS CODE IS MADE ENTIRELY FROM SCRATCH AND I DO NOT GUARANTEE THAT IT WORKS PERFECTLY.
+
+
 ## Authors
 
 - [@captain-n3m0](https://github.com/captain-n3m0)
